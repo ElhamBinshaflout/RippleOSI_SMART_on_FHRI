@@ -1,2 +1,2 @@
 # RippleOSI_SMART_on_FHRI
-GS01: Requirements Engineering and Software Architecture
+GS02: Software Abstraction And System Integration
